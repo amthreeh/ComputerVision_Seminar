@@ -6,8 +6,10 @@
 original 폴더 안에 있는 dolphin, shark, whale의 하위 폴더에서 train, valid, test 폴더를 만든 후 각 클래스 별 폴더를 생성합니다. 
 각각 7:2:1로 image 재배치 시켜줍니다.
 
-![image](https://user-images.githubusercontent.com/103898937/222053900-7721ddcc-1ba6-4b90-b166-2ca9eb1feaea.png)
+![image](https://user-images.githubusercontent.com/103898937/222076254-4e94ac1d-aa6b-4541-8022-ffb20e9f605d.png)
 
+
+3 * 3형태로 dolphin, shark, whale을 3개씩 프린트하기 
 ![image](https://user-images.githubusercontent.com/103898937/222054173-ee309e3f-634e-4082-9e24-4a559d228da9.png)
 
 

@@ -1,10 +1,12 @@
 # ComputerVision_Seminar
 
+
 2023년 DNA STUDY를 통해 이미지 돌고래, 상어, 고래 3가지 동물을 분류하는 프로젝트를 진행했습니다.
 
 ## 데이터 파일 생성하기
-original 폴더 안에 있는 dolphin, shark, whale의 하위 폴더에서 train, valid, test 폴더를 만든 후 각 클래스 별 폴더를 생성합니다. 
-각각 7:2:1로 image 재배치 시켜줍니다.
+
++original 폴더 안에 있는 dolphin, shark, whale의 하위 폴더에서 train, valid, test 폴더를 만든 후 각 클래스 별 폴더를 생성합니다. 
++각각 7:2:1로 image 재배치 시켜줍니다.
 
 ![image](https://user-images.githubusercontent.com/103898937/222076254-4e94ac1d-aa6b-4541-8022-ffb20e9f605d.png)
 

@@ -27,3 +27,11 @@ _ _ _
 3. albumentation을 사용하여 Image Augmentation하기
 
 ![image](https://user-images.githubusercontent.com/103898937/222055876-d2c7227e-d2d1-4c13-b076-758c41a375ec.png)
+
+# resnet50 모델 학습
+## 진행 과정
+
+1. dataset 클래스를 py파일로 변환
+2. 바꾼 py파일을 모듈로 불러옴
+3. 데이터 불러오기, albumentation에 필요한 과정 가져오기
+4. resnet50을 사용

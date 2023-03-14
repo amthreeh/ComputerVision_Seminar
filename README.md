@@ -42,10 +42,19 @@ kaggle에 올라온 코드를 통해 직접 모델을 생성하고 정확도 올
 ## week5
 
 ## GoogLeNet
-- 1*1 filter
+- 1*1 filter: 차원축소
 - Global average pooling
-## ResNet
 
+![image](https://user-images.githubusercontent.com/103898937/224966051-2d89e6b1-977d-44a1-9fce-7f9a7a37b6fc.png)
+
+## ResNet
+![image](https://user-images.githubusercontent.com/103898937/224964913-442ffa19-43db-4eea-bfde-0419c69750f7.png)
+![image](https://user-images.githubusercontent.com/103898937/224965064-677e7163-d4d8-4662-99b6-7249bc66b67e.png)
+- Layer를 상당히 깊게 쌓았음에도 적게 쌓았을 때보다 에러가 낮으며 degradation problem이 발생하지 않은 것을 알 수 있습니다.
+-  20-layer plain network가 50-layer plain network보다 더 낮은 train error와 test error를 얻은 것을 보여줍니다. 
+   논문에서는 이를 degradation 문제라고 말하고 기울기 소실에의해 발생한다고 합니다. 
+   
+   
 ## week6
 - 모델 학습시키기
   trainset과 validset을 불러와서 학습시키는 과정을 학습합니다.
